@@ -1,4 +1,4 @@
-# CorrelationProject
+# Movies Correlation Project
 
 Utilizing Jupyter Notebook with imported libraries to assist in manipulating the dataset.
 
